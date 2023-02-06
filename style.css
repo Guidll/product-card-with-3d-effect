@@ -28,9 +28,9 @@ img {
   --font-base: 'Montserrat', sans-serif;
   --font-accent: 'Fraunces', serif;
 
-  --perspective: 800px;
-  --angle: 10deg;
-  --angle-negative: -10deg;
+  --perspective: 2000px;
+  --angle: 5deg;
+  --angle-negative: -5deg;
 }
 
 body {
