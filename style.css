@@ -28,6 +28,7 @@ img {
   --font-base: 'Montserrat', sans-serif;
   --font-accent: 'Fraunces', serif;
 
+  /* 3d effect */
   --perspective: 2000px;
   --angle: 5deg;
   --angle-negative: -5deg;
