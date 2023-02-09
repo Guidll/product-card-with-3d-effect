@@ -5,7 +5,7 @@ It's basically a card, but I spice it up with a 3D effect.
 
 ## How to test
 **Choose which you prefer**
-- Acess the [deploy link](https://classy-moonbeam-1711e8.netlify.app/)
+- Access the [deploy link](https://classy-moonbeam-1711e8.netlify.app/)
 - Open the `index.html` file in your browser
 
 ### Technologies and tools
