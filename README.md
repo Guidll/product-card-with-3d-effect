@@ -11,7 +11,6 @@ It's basically a card, but I spice it up with a 3D effect.
 ### Technologies and tools
 - HTML
 - CSS
-- JS
 
 ### Overview
 <img src="./images/doc/overview.gif" width="600px">
